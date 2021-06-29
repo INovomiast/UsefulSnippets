@@ -15,3 +15,4 @@ This is a very Raw project, and it will need to have more Updates, but for now,
 if you find any Trouble on the Snippets or other things, pls, just make an Issue
 and Report the ERROR.
 
+Make an Issue: https://github.com/INovomiast/UsefulSnippets/issues
