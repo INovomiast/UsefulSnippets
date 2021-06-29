@@ -1,7 +1,7 @@
 # UsefulSnippets
 
 <p align="center">
-    <img align="center" width="100" height="100" src="./">
+    <img align="center" width="200" height="200" src="https://github.com/INovomiast/UsefulSnippets/blob/main/UsefulSnippets.png">
 </p>
 
 UsefulSnippets is a very useful snnipet library for VSCode, SublimeText and Atom
