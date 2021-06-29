@@ -38,3 +38,9 @@ Heres the list of languages that there are SNIPPETS for:
     <li>Ruby</li>
     And more!, but we still developing it!
  </ul>
+
+## Documentation
+
+This is anything special, if you want to have it...
+
+Docs: usefulsnnipets.glitch.me/docs/geting-started/
