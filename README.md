@@ -8,7 +8,7 @@ with more tha 50 new snnipets with a long language support.
 To download UsefulSnippets you have 2 options:
     <ul>
         <li>Clone the repository</li>
-        <li>Go to the official website of the project: <a href="usefulsnippets.glitch.me">usefulsnippets.glitch.me</a></li>
+        <li>Go to the official website of the project: <a href="https://usefulsnippets.glitch.me">usefulsnippets.glitch.me</a></li>
     </ul>
     
 ## Install UsefulSnippets
