@@ -1,0 +1,17 @@
+{
+  'It creates basic DB connection code':
+  'prefix': 'css:new_basic'
+  'body': """
+    *{
+      padding: 0;
+      margin: 0;
+    }
+    html{
+      height: 100%;
+    }
+    
+    body{
+      //*Add Here the code for the body!*//
+    }
+  """   
+}

@@ -17,4 +17,6 @@ To download UsefulSnippets you have 2 options:
   <br>
   (**ATTENTION!** || Downloading UsefulSnnipets by the official website will give you a .exe installer)
   
-  To install it with the cloned repo
+  To install it with the clonated repository view this video:
+  <br>
+  

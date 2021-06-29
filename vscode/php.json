@@ -1,0 +1,23 @@
+{
+	"It creates basic DB connection code": {
+		"prefix": "mysqli:connection",
+		"body": [
+		  "",
+		  "  $hostname = \"\";",
+		  "  $username = \"\";",
+		  "  $password = \"\";  ",
+		  "  $db_name = \"\";",
+		  "",
+		  "  //Creates a connection with the db",
+		  "  $conn = mysqli_connect($hostname, $username, $password, $db_name);",
+		  "",
+		  "  //Ckecks if the connection was ok, and if was not kills the connection",
+		  "  if(!$conn){",
+		  "    die(\"It wasn't posible to Connect to DataBase\" . mysqli_connect_error($conn));",
+		  "  }else{",
+		  "    echo \"Connection was succesful!\";",
+		  "  }"
+		],
+		"description": "It creates basic DB connection code"
+	  }
+}
