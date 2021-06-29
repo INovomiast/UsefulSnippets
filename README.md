@@ -38,5 +38,5 @@ Heres the list of languages that there are SNIPPETS for;
     <li>Python</li>
     <li>Ruby</li>
     <br>
-    <h2>And more!, but we still developing it!</h2>
+    And more!, but we still developing it!
  </ul>
