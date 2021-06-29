@@ -24,8 +24,7 @@ To download UsefulSnippets you have 2 options:
 
 ## Supported Languages
 
-Heres the list of languages that there are SNIPPETS for;
-
+Heres the list of languages that there are SNIPPETS for:
  <ul>
     <li>ActionScript</li>
     <li>C</li>
@@ -37,6 +36,5 @@ Heres the list of languages that there are SNIPPETS for;
     <li>PHP</li>
     <li>Python</li>
     <li>Ruby</li>
-    <br>
     And more!, but we still developing it!
  </ul>
