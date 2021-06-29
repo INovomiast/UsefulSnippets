@@ -28,14 +28,14 @@ Heres the list of languages that there are SNIPPETS for;
 
  <ul>
     <li>ActionScript<li>
-    <li>C<li>
-    <li>C++<li>
-    <li>CSharp<li>
-    <li>Css<li>
-    <li>Html<li>
-    <li>JavaScript<li>
-    <li>PHP<li>
-    <li>Python<li>
-    <li>Ruby<li>
+    <li>C</li>
+    <li>C++</li>
+    <li>CSharp</li>
+    <li>Css</li>
+    <li>Html</li>
+    <li>JavaScript</li>
+    <li>PHP</li>
+    <li>Python</li>
+    <li>Ruby</li>
     <h2>And more!, but we still developing it!</h2>
  </ul>
