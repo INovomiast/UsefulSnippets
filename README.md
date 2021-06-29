@@ -43,4 +43,4 @@ Heres the list of languages that there are SNIPPETS for:
 
 This is anything special, if you want to have it...
 
-Docs: usefulsnnipets.glitch.me/docs/geting-started/
+Docs: <a href="usefulsnnipets.glitch.me/docs/geting-started/">usefulsnnipets.glitch.me/docs/</a>
