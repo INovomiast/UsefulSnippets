@@ -27,7 +27,7 @@ To download UsefulSnippets you have 2 options:
 Heres the list of languages that there are SNIPPETS for;
 
  <ul>
-    <li>ActionScript<li>
+    <li>ActionScript</li>
     <li>C</li>
     <li>C++</li>
     <li>CSharp</li>
