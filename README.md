@@ -28,6 +28,8 @@ To download UsefulSnippets you have 2 options:
 
 ## Supported Languages
 
+**The languages in BOLD are the last updated languages!**
+
 Heres the list of languages that there are SNIPPETS for:
  <ul>
     <li>ActionScript</li>
@@ -37,12 +39,17 @@ Heres the list of languages that there are SNIPPETS for:
     <li>Css</li>
     <li>Html</li>
     <li>JavaScript</li>
-    <li>PHP</li>
-    <li>Python</li>
+    <li><b>PHP</b></li>
+    <li><b>Python</b></li>
     <li>Ruby</li>
     And more!, but we still developing it!
  </ul>
-
+ 
+ ## Gifts
+  - Emoji Snippets
+  - microCSS Snippet Suport
+  - **microJS Snippet Suport** (Under Development)
+  - **microPY Snippet Suport** (Under Development)
 ## Documentation
 
 This is anything special, if you want to have it...
