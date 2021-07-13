@@ -55,3 +55,10 @@ Heres the list of languages that there are SNIPPETS for:
 This is anything special, if you want to have it...
 
 Docs: <a href="https://usefulsnnipets.glitch.me/docs/geting-started/">usefulsnnipets.glitch.me/docs/</a>
+
+## Credits
+ - Coder: INovomiast
+ - Website Designer: INovomiast
+ - Language Research: INovomiast
+ - Repo Manager: INovomiast and Community
+ - Testers: No one... if you want to be a Tester, just go <a href="">here</a>
